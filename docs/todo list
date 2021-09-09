@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html>
+<!-- lets make a little todo list for computering. links to class central, the class homepage, the youtube. easier than opening gdocs, & new features can be tested in git -->
+<head>
+  <title>todo list</title>
+</head>
+<body>
+  <h1>doing my best</h1>
+  <h2>links, because they keep getting lost</h2>
+    <ul>
+      <li><a href="#">class central</a>
+      <!-- announcements page? -->
+      <li><a href="#">class youtube</a>
+      <li><a href="#">free code camp</a>
+      <li><a href="#">git guides</a>
+      <li><a href="#">gdocs for notes</a>
+    </ul>
+  <h2>TODO</h2>
+    <p>fill in links for above list =)</p>
+    <p>figure out how to make the main page public but this page private?</p>
+</body>
+
+</html>
